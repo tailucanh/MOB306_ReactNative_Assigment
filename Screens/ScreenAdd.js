@@ -48,10 +48,6 @@ export default function ScreenAdd(props) {
     }
   };
 
-  function onPressRadioButton(radioButtonsArray) {
-    setRadioButtons(radioButtonsArray);
-  }
-
   const validate = () => {
     Keyboard.dismiss();
     let valid = true;

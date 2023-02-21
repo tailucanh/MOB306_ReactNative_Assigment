@@ -138,7 +138,7 @@ const styles = StyleSheet.create({
   },
   styleText: {
     color: "#c9c9c9",
-    fontSize: 17,
+    fontSize: 16,
     fontFamily: "Sriracha",
   },
 

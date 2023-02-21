@@ -16,7 +16,7 @@
       "name": "jjjj",
       "phone": "996",
       "address": "bbb",
-      "status": 0,
+      "status": 1,
       "logo": {
         "uri": null,
         "name": "logo.jpg",
@@ -25,12 +25,12 @@
       "id": 10
     },
     {
-      "name": "bh",
+      "name": "Abcdeeee",
       "phone": "6666",
       "address": "vvbbb",
       "status": 1,
       "logo": {
-        "uri": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252FAssigmentMOB306_ReactNative-fdbf6013-b931-4257-9692-b25ed4597f5f/ImagePicker/5ac0a1dc-7424-4d4b-b343-497609de5eae.jpeg",
+        "uri": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252FAssigmentMOB306_ReactNative-fdbf6013-b931-4257-9692-b25ed4597f5f/ImagePicker/e08b6a8f-26c4-435d-88f5-9b91a9b0a1f9.jpeg",
         "name": "logo.jpg",
         "type": "image/jpeg"
       },

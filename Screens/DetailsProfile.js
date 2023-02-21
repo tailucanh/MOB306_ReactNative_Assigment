@@ -4,6 +4,7 @@ import {
   Button,
   Pressable,
   TouchableHighlight,
+  TouchableOpacity,
   StatusBar,
   ImageBackground,
   Image,
@@ -51,15 +52,13 @@ export default function DetailsProfile(props) {
             <Text style={styles.textChildTitle}>Đánh giá</Text>
             <Text style={styles.textChildContent}>4.9</Text>
           </View>
-          <TouchableHighlight underlayColor="#6f86bd">
-            <View style={styles.boxBtn}>
-              <Image
-                source={require("../assets/images/ic_plus.png")}
-                style={styles.icPlus}
-              />
-              <Text style={styles.textButton}>Follow me</Text>
-            </View>
-          </TouchableHighlight>
+          <TouchableOpacity style={styles.boxBtn}>
+            <Image
+              source={require("../assets/images/ic_plus.png")}
+              style={styles.icPlus}
+            />
+            <Text style={styles.textButton}>Follow me</Text>
+          </TouchableOpacity>
         </View>
       </View>
 

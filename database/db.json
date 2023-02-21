@@ -1,0 +1,40 @@
+{
+  "shops": [
+    {
+      "name": "bbb",
+      "phone": "3333",
+      "address": "bbbb",
+      "status": 1,
+      "logo": {
+        "uri": null,
+        "name": "logo.jpg",
+        "type": "image/jpeg"
+      },
+      "id": 9
+    },
+    {
+      "name": "jjjj",
+      "phone": "996",
+      "address": "bbb",
+      "status": 0,
+      "logo": {
+        "uri": null,
+        "name": "logo.jpg",
+        "type": "image/jpeg"
+      },
+      "id": 10
+    },
+    {
+      "name": "bh",
+      "phone": "6666",
+      "address": "vvbbb",
+      "status": 1,
+      "logo": {
+        "uri": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252FAssigmentMOB306_ReactNative-fdbf6013-b931-4257-9692-b25ed4597f5f/ImagePicker/5ac0a1dc-7424-4d4b-b343-497609de5eae.jpeg",
+        "name": "logo.jpg",
+        "type": "image/jpeg"
+      },
+      "id": 11
+    }
+  ]
+}
